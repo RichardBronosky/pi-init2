@@ -28,7 +28,7 @@ The Raspberry Pi should now boot several times.
  and which model of Raspberry Pi you use (I tested with model 3).
 
 By default only a single simple change will be applied. A `/home/pi/.bash_aliases` file will be
- created with `alias ll='ls -la` in it. The `boot/run-once.sh` script includes several commented
+ created with `alias ll='ls -la'` in it. The `boot/run-once.sh` script includes several commented
  blocks to demonstrate how to accomplish common tasks.
 
 # Building pi-init2
